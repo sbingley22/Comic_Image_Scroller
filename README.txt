@@ -1,0 +1,1 @@
+A very basic image file comic book viewer that is set up for very long width comics.
